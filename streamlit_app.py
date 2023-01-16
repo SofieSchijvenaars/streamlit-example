@@ -3,7 +3,7 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-from sonardata import SonarData
+import xarray as xr
 
 """
 # Welcome to Streamlit!
